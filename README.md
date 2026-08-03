@@ -23,8 +23,8 @@ Subsurface datasets are incomplete by nature: missing log intervals, sparse core
 | Repository | What it does |
 | [EGANs-vs.GMM](https://github.com/ARhaman/EGANs-vs.GMM) | Benchmarks Encoder-GANs against Gaussian Mixture Models for anomaly detection in well logs (GR, DT, NPHI). Code + data. |
 | [SFT-Estimation](https://github.com/ARhaman/SFT-Estimation) | Static formation temperature estimation from real geothermal well datasets. Python and MATLAB implementations. |
-| [GeoPix](https://github.com/ARhaman/GeoPix) | [ONE LINE: what problem it solves and on what data] |
-| [Auto-Outlier-Detection](https://github.com/ARhaman/Auto-Outlier-Detection) | [ONE LINE: what problem it solves and on what data] |
+| [GeoPix](https://github.com/ARhaman/GeoPix) | Image to image trnaslation |
+| [Auto-Outlier-Detection](https://github.com/ARhaman/Auto-Outlier-Detection) |
 
 Each repository includes the dataset (or its source), a runnable notebook, and a citation entry for the corresponding publication.
 
